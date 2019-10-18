@@ -1,0 +1,55 @@
+# W6-   UIElements 
+
+**What is a UIElement?**
+
+components that you can add to astroyboard file. 
+
+**What does UI stand for?**
+
+User interface.
+
+**What symbol signals that a connections has been broken in your View Controller Class?**
+
+it will say error in the debug area.
+
+**How can you reconnect a broken link on a UIElement from your View Controller Class to the storyboard?**
+
+if the button on viewcontroller swift is not connected you go on to Assistant and drag the button you would like to the function. 
+
+**What symbol signals that a connections has been broken in your Storyboard Connections Inspector?**
+
+The organge caution sign 
+
+**How to remove a broken connections in the connections inspector?'**
+
+Delete the tab where the caution symbol is on. 
+
+**How to link a UIElement to View Controller class?**
+
+You split the screen int assistant and drag it over to the viewController swift page. if it is a outlet it goes under the class code and if it is an action it goes under viewdidload()
+
+**How to embed a navigation controller?** 
+
+Go to viewcontroler then click on the editor tab and click embed navigation contoller.
+
+**Where to keep local images within your project?**
+
+Under the assests file. 
+
+**Describe an IBAction?**
+
+An IBAction is a function that requires you to do something to make it work. 
+
+**Desicbe an IBOutlet?**
+
+An outlet is a label stating something. 
+
+**Label the following elements as outlets and/or actions (it might be useful to add snippets of code in here):**
+
+Slider outcome= Outlet 
+       Sliding- Action
+       
+Button- Action
+Label- Outlet 
+Progress Bar- Outlet
+Image View = outlet 
