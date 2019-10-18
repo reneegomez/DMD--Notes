@@ -1,6 +1,8 @@
-# Extra Notes: 
+# Workshop 3- Functions 
 
-When writing return value use (->)
+**Extra Notes: 
+
+1. _When writing return value use (->)_
 1. _let= unchangeable_
 1. _var= modifiable format_
 
