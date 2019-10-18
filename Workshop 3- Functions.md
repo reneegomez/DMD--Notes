@@ -1,4 +1,4 @@
-# Workshop 3- Functions 
+# W3- Functions 
 
 **Extra Notes:**
 
