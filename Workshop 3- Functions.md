@@ -1,6 +1,6 @@
 # Workshop 3- Functions 
 
-**Extra Notes: 
+**Extra Notes:**
 
 1. _When writing return value use (->)_
 1. _let= unchangeable_
