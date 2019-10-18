@@ -64,7 +64,7 @@ It gives the user an option perform the task multiple times or redo it if it is 
 
 **Which statement does 'for in' most commonly use?**
 
-'for in' is ued to repeat forms of code in a sequence in an array format. This can include items such as numbers or a string of characters. 
+'for in' is used to repeat forms of code in a sequence in an array format. This can include items such as numbers or a string of characters. 
 
 Example: 
 
