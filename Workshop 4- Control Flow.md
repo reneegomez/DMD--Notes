@@ -68,9 +68,8 @@ It gives the user an option perform the task multiple times or redo it if it is 
 
 Example: 
 
-```
-swift 
-
+ ```swift 
+ 
 let names = Renee [" Kira", "Kelly", "Nawal"]
 
 for name in names { 
