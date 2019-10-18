@@ -1,3 +1,5 @@
+# W1- Setting up a project
+
 **How do you print things out the debug area?
 ```swift
 
