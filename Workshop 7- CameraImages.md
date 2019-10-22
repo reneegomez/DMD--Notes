@@ -9,7 +9,7 @@ let imagePicker = UIImagePickerController()
  
  **Try and explain what happens when we write an extension.**
  
- Without the extension the class can not be delegated as it has nothing to do on behalf of something. Therefore the extenstion adss to the stuff if it can do so when you do delgated it has somehting to be assigned to. It also organises your code so everything is together. 
+ Without the extension the class can not be delegated as it has nothing to do on behalf of something. Therefore the extenstion adss to the stuff it can do so when you do delgated it has somehting to be assigned to. It also organises your code so everything is together. 
  
  Example:
  
@@ -28,7 +28,7 @@ extension ViewController: UIImagePickerControllerDelegate, UINavigationControlle
 
 **What are the different sourceTypes?**
 
-photolibrary and camera roll 
+photo library and camera roll 
 
 **What is a delegate?**
 
