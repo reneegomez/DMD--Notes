@@ -53,7 +53,7 @@ PerformSegue(with identifier:home", sender: nil)
 
 **Briefly describe how you pass data between two view controllers (you may want to save some snippets of code here)?**
 
-Set up sege in soryboard
-Give it a name
-PerformSegue 
-Set property i.e score 
+1.Set up segue in soryboard
+2.Give it a name
+3.PerformSegue 
+4.Set property i.e score 
