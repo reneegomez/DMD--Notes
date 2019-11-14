@@ -1,4 +1,4 @@
-# W5- Device Location 
+# W10- Device Location 
 
 Key Terms
 
