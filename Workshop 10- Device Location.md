@@ -2,8 +2,8 @@
 
 Key Terms
 
-.The info p.list= file contains some information about settings and other information about your app. 
-.CoreLocation= A libray that enables classes to use location "stuff".
+1) The info p.list= file contains some information about settings and other information about your app
+2) CoreLocation= A libray that enables classes to use location "stuff".
 
 **What is requesting permission?**
 
