@@ -2,8 +2,8 @@
 
 Key Terms
 
-The info p.list= file contains some information about settings and other information about your app. There are two types of privacy: 
-CoreLocation= A libray that enables classes to use location "stuff".
+.The info p.list= file contains some information about settings and other information about your app. 
+.CoreLocation= A libray that enables classes to use location "stuff".
 
 **What is requesting permission?**
 
