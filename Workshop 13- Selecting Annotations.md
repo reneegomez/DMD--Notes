@@ -2,7 +2,18 @@
 
 **How do you create a custom Annotation class?**
 
+```swift 
+
+import MapKit
+class MyAnnotation: MKPointAnnotation  {
+
+}
+
+```
+
 **How do you respond to a user selecting an annotation?**
+
+
 
 **What is the delegate method to customise an annotations view?**
 
