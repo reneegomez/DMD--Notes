@@ -4,7 +4,7 @@
 
 a website to develop apps. 
 
-**What is an alert**
+**What is an alert?**
 
 alert= notification pop up 
 
